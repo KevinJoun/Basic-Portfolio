@@ -1,8 +1,30 @@
-header {
+.mainHeader{
+    background-color: #ffffff;
+    
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav li{
+    display: inline-block;
+}
+
+h1 {
+    color:white;
+    background-color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 
+}
+
+h2 {
+    color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
-nav {
-    float: right;
-}
-
