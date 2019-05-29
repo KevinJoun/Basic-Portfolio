@@ -8,7 +8,7 @@
 }
 
 main{
-    padding-bottom: 380px;
+    padding-bottom: 400px;
     background-image: url('../images/Background.png');
     border-top:  #dddddd 1px solid;
 }
@@ -53,14 +53,14 @@ section {
     border: #dddddd 1px solid;
 }
 
-h2 {
+.page_title {
     color: #4aaaa5;
-    margin: 20px 15px 20px 15px;
+    margin: 20px 20px 20px 20px;
 }
 
 hr {
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
     color: #777777;
 }
 
@@ -83,6 +83,65 @@ p {
 #margin_bottom {
     margin-bottom: 20px;
 }
+
+#image_position {
+    margin: 20px 20px 10px 20px;
+}
+
+#image_container {
+    position: relative;
+}
+
+#image_title1 {
+    position: absolute;
+    top: 160px;
+    left: 20px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 225px;
+    padding: 5px 0px 5px 70px;
+}
+
+#image_title2 {
+    position: absolute;
+    top: 160px;
+    left: 289.4px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 225px;
+    padding: 5px 0px 5px 65px;
+}
+
+#image_title3 {
+    position: absolute;
+    top: 370px;
+    left: 20px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 225px;
+    padding: 5px 0px 5px 60px;
+}
+
+#image_title4 {
+    position: absolute;
+    top: 370px;
+    left: 289.4px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 225px;
+    padding: 5px 0px 5px 25px;
+}
+
+#image_title5 {
+    position: absolute;
+    top: 579px;
+    left: 20px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 225px;
+    padding: 5px 0 5px 20px;
+}
+
 
 footer {
     color: #dddddd;
