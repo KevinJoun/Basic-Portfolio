@@ -14,10 +14,10 @@ main{
 }
 
 header {
+    margin: 0 auto;
     margin-top: 24px;
     margin-bottom: 24px;
     width: 960px;
-    margin-left: 25%;
 }
 
 a:link {
@@ -46,11 +46,11 @@ h1 {
 }
 
 section {
+    margin: 0 auto;
     width: 960px;
     margin-top: 45px;
     background-color: white;
     border: #dddddd 1px solid;
-    margin-left: 25%;
 }
 
 h2 {
@@ -64,7 +64,7 @@ hr {
     color: #777777;
 }
 
-img {
+#profile_image {
     float: left;
     margin: 20px 20px 10px 20px;
 }
