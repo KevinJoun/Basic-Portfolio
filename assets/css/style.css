@@ -167,6 +167,10 @@ form {
     text-indent: 5px;
 }
 
+input {
+    font-size: 16px;
+}
+
 #submit_button {
     box-shadow: none;
     background: none;
@@ -174,7 +178,10 @@ form {
     color: white;
     background-color: #4aaaa5;
     padding: 5px 20px 5px 20px;
+}
 
+textarea {
+    font-size: 16px;
 }
 
 footer {
