@@ -150,18 +150,31 @@ form {
     width: 100%;
     height: 30px;
     margin: 5px 20px 20px 0px;
+    text-indent: 5px;
 }
 
 #email_box {
     width: 100%;
     height: 30px;
     margin: 5px 20px 20px 0px;
+    text-indent: 5px;
 }
 
 #message_box {
     width: 100%;
     height: 300px;
     margin: 5px 20px 20px 0px;
+    text-indent: 5px;
+}
+
+#submit_button {
+    box-shadow: none;
+    background: none;
+    border: none;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 5px 20px 5px 20px;
+
 }
 
 footer {
