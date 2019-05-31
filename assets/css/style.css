@@ -38,6 +38,10 @@ ul{
     float: right;
 }
 
+li {
+    margin-left: 5px;
+}
+
 h1 {
     color:white;
     background-color:#4aaaa5;
