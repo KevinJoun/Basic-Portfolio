@@ -51,7 +51,7 @@ h1 {
 
 section {
     margin: 0 auto;
-    width: 960px;
+    width: 958px;
     margin-top: 45px;
     background-color: white;
     border: #dddddd 1px solid;
@@ -94,6 +94,8 @@ p {
 
 #image_container {
     position: relative;
+    width: 960px;
+    align-content: center;
 }
 
 #image_title1 {
@@ -118,8 +120,8 @@ p {
 
 #image_title3 {
     position: absolute;
-    top: 370px;
-    left: 20px;
+    top: 160px;
+    left: 558.4px;
     color: white;
     background-color: #4aaaa5;
     width: 225px;
@@ -129,7 +131,7 @@ p {
 #image_title4 {
     position: absolute;
     top: 370px;
-    left: 289.4px;
+    left: 20px;
     color: white;
     background-color: #4aaaa5;
     width: 225px;
@@ -138,8 +140,8 @@ p {
 
 #image_title5 {
     position: absolute;
-    top: 579px;
-    left: 20px;
+    top: 370px;
+    left: 289.4px;
     color: white;
     background-color: #4aaaa5;
     width: 225px;
