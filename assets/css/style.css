@@ -20,6 +20,10 @@ header {
     width: 960px;
 }
 
+#linkedin{
+    margin-left: 20px;
+}
+
 a:link {
     color: #777777;
     text-decoration: none;
@@ -28,6 +32,8 @@ a:link {
 a:visited{
     color: #777777;
 }
+
+
 
 ul li {
     display: inline-block;
@@ -142,6 +148,16 @@ p {
     position: absolute;
     top: 370px;
     left: 289.4px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 225px;
+    padding: 5px 0 5px 20px;
+}
+
+#image_title6 {
+    position: absolute;
+    top: 370px;
+    left: 558.4px;
     color: white;
     background-color: #4aaaa5;
     width: 225px;
